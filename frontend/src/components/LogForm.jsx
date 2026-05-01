@@ -83,7 +83,7 @@ const LogForm = () => {
       width: '60%', backgroundColor: C.bg,
       borderRight: `1px solid ${C.border}`,
       display: 'flex', flexDirection: 'column',
-      height: '100vh', overflow: 'hidden',
+      height: '100%', overflow: 'hidden',
     }}>
       {/* Header */}
       <div style={{
