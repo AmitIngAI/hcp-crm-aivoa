@@ -40,7 +40,7 @@ conversational AI chat interface.
 - Returns matching records from PostgreSQL
 - Displays in chat with key details
 
----
+```
 ## 📁 Project Structure
 hcp-crm/
 ├── backend/
@@ -62,8 +62,8 @@ hcp-crm/
 └── components/
 ├── LogForm.jsx # Left panel (read-only)
 └── ChatPanel.jsx # Right panel (AI chat)
+```
 
----
 ## ⚙️ Setup Instructions
 
 ### Prerequisites
