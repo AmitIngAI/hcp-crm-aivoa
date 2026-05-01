@@ -121,7 +121,7 @@ const ChatPanel = () => {
     <div style={{
       width: '40%', backgroundColor: C.bg,
       display: 'flex', flexDirection: 'column',
-      height: '100vh', overflow: 'hidden',
+      height: '100%', overflow: 'hidden',
     }}>
       {/* Header */}
       <div style={{
